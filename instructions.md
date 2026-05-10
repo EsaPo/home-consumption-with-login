@@ -1,4 +1,4 @@
-init# Kotitalous - Käyttöohjeet
+# Kotitalous - Käyttöohjeet
 
 ## Yleistä
 
